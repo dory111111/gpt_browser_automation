@@ -4,7 +4,7 @@
  
 https://twitter.com/dory111111/status/1609734301658275841
  
-# Installation
+# Requirements
   
 ```bash
 pip install openai streamlit selenium
